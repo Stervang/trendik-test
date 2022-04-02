@@ -32,3 +32,9 @@ con eso ya debe iniciar la aplicación
 + creacion de la tabla y buscador = 20 min
 + importacion de la imformacion a la tabla = 10 min
 + subida a github = 5 min
+
+
+## Futuro del proyecto
++ la parte visual del proyecto se debe mejorar, ademas de poder listar los tags de cada influencer
++ se puede agregar mas informacion de los influencers, para generar una mejor busqueda
++ agregar links que dirigan a la persona a la pagina del influencer
