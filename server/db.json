@@ -1,0 +1,115 @@
+{
+    "Influencers":[{
+      "_id": 0,
+      "name": "Chandler Harris",
+      "country": "French Southern Territories",
+      "email": "chandlerharris@jamnation.com",
+      "tags": [
+        "entretaiment ",
+        "tech ",
+        "social "
+      ]
+    },
+    {
+      "_id": 1,
+      "name": "Shelley Atkins",
+      "country": "Ireland",
+      "email": "shelleyatkins@jamnation.com",
+      "tags": [
+        "foodie ",
+        "entretenimiento "
+      ]
+    },
+    {
+      "_id": 2,
+      "name": "Vanessa Ball",
+      "country": "Gabon",
+      "email": "vanessaball@jamnation.com",
+      "tags": [
+        "social ",
+        "foodie "
+      ]
+    },
+    {
+      "_id": 3,
+      "name": "Marilyn Johnson",
+      "country": "Montserrat",
+      "email": "marilynjohnson@jamnation.com",
+      "tags": [
+        "gaming ",
+        "belleza ",
+        "entretenimiento "
+      ]
+    },
+    {
+      "_id": 4,
+      "name": "Carey Quinn",
+      "country": "Guam",
+      "email": "careyquinn@jamnation.com",
+      "tags": [
+        "social "
+      ]
+    },
+    {
+      "_id": 5,
+      "name": "Perry Hess",
+      "country": "Nigeria",
+      "email": "perryhess@jamnation.com",
+      "tags": [
+        "tech ",
+        "ejercicios "
+      ]
+    },
+    {
+      "_id": 6,
+      "name": "Ewing Harvey",
+      "country": "Bangladesh",
+      "email": "ewingharvey@jamnation.com",
+      "tags": [
+        "social ",
+        "entretenimiento "
+      ]
+    },
+    {
+      "_id": 7,
+      "name": "Hahn Barnett",
+      "country": "Bahrain",
+      "email": "hahnbarnett@jamnation.com",
+      "tags": [
+        "tech ",
+        "gaming ",
+        "entretenimiento "
+      ]
+    },
+    {
+      "_id": 8,
+      "name": "Willie Mercado",
+      "country": "US Minor Outlying Islands",
+      "email": "williemercado@jamnation.com",
+      "tags": [
+        "tech "
+      ]
+    },
+    {
+      "_id": 9,
+      "name": "Katy Vang",
+      "country": "Morocco",
+      "email": "katyvang@jamnation.com",
+      "tags": [
+        "social ",
+        "foodie "
+      ]
+    },
+    {
+      "_id": 10,
+      "name": "Trisha Rosa",
+      "country": "Mexico",
+      "email": "trisharosa@jamnation.com",
+      "tags": [
+        "belleza ",
+        "ejercicios ",
+        "hobbies "
+      ]
+    }
+]
+}
